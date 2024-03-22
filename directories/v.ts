@@ -10,4 +10,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Paid"
     },
+    {
+        "name": "VStat",
+        "link": "https://vstat.info/",
+        "submission_link": "https://vstat.info/",
+        "domain_rating": 10.0,
+        "monthly_visits": 200,
+        "submission_experience": "Good",
+        "pricing": "Freemium"
+    },
 ]
